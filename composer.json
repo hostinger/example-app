@@ -1,5 +1,5 @@
 {
-    "name": "hotinger/example-app",
+    "name": "hostinger/example-app",
     "description": "Example Application to Deploy On Hostinger",
     "require": {
         "slim/slim": "^2.6"
