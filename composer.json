@@ -1,0 +1,14 @@
+{
+    "name": "hotinger/example-app",
+    "description": "Example Application to Deploy On Hostinger",
+    "require": {
+        "slim/slim": "^2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hostiger",
+            "email": "andrius@hostinger.com"
+        }
+    ]
+}
