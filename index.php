@@ -1,7 +1,5 @@
 <?php
 
-echo "Hi there!";
-
 require 'vendor/autoload.php';
 
 $app = new \Slim\Slim();
